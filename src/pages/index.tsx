@@ -146,7 +146,7 @@ const IndexPage: React.FC<PageProps> = () => {
           — you just made a Gatsby site! 🎉🎉🎉
         </span>
         <br />
-        This is test of preview branch 3.
+        This is test of preview branch 4.
       </h1>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.tsx</code> to see this
